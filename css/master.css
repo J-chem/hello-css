@@ -20,3 +20,12 @@ h1 {
 h2 {
   font-size: 1.6em;
 }
+
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: lower-roman;
+}
